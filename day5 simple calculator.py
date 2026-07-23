@@ -1,5 +1,4 @@
 # Simple Calculator
-
 print("=" * 30)
 print("      SIMPLE CALCULATOR")
 print("=" * 30)

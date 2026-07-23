@@ -1,2 +1,2 @@
-# python_practice2
+#python 
 This is my repository of daily code practice. and daily learnings. 

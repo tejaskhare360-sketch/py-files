@@ -1,4 +1,1 @@
-#python 
-
-
 Tinkering sminkering blinkering

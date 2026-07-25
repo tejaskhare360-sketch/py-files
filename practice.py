@@ -1,4 +1,4 @@
-#wap to check weather the number is odd or even 
+ #wap to check weather the number is odd or even 
 
 num = int(input("enter a number:"))
 if num % 2 == 0:
